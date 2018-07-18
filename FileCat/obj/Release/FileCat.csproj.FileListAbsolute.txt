@@ -1,0 +1,9 @@
+E:\VS Projects\Projects\FileCat\FileCat\bin\Release\FileCat.exe.config
+E:\VS Projects\Projects\FileCat\FileCat\bin\Release\FileCat.exe
+E:\VS Projects\Projects\FileCat\FileCat\bin\Release\FileCat.pdb
+E:\VS Projects\Projects\FileCat\FileCat\obj\Release\FileCat.Properties.Resources.resources
+E:\VS Projects\Projects\FileCat\FileCat\obj\Release\FileCat.csproj.GenerateResource.Cache
+E:\VS Projects\Projects\FileCat\FileCat\obj\Release\FileCat.exe
+E:\VS Projects\Projects\FileCat\FileCat\obj\Release\FileCat.pdb
+E:\VS Projects\Projects\FileCat\FileCat\obj\Release\FileCat.csprojResolveAssemblyReference.cache
+E:\VS Projects\Projects\FileCat\FileCat\obj\Release\FileCat.mainFrm.resources
